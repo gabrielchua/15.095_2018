@@ -1,3 +1,3 @@
-# 15.095: Machine Learning under a Modern Optimisation Lens
+# Machine Learning & Optimization
 
-Implementations in Julia
+Implementations in Julia for Fall 2018 15.095
