@@ -1,3 +1,6 @@
 # Machine Learning & Optimization
 
-Implementations in Julia for Fall 2018 15.095
+1. Robust Regressions
+2. Holistic Regressions
+3. Convex Regressions
+4. Prescriptive Analytics
